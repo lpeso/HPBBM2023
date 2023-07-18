@@ -29,7 +29,7 @@ website:
       - r8.qmd
       - r9.qmd
   page-footer:
-    left: "Modesto Redrejo Rodríguez, 2023"
+    left: "Modesto Redrejo Rodríguez & Luis del Peso Ovalle, 2023"
     right:
     - icon: badge-cc-fill
       href: https://creativecommons.org/licenses/by-nc/2.0/
